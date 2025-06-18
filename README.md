@@ -28,9 +28,9 @@ Para abrir y ejecutar este proyecto en tu entorno local:
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
-* **Tu Nombre:** [Tu Nombre Completo]
-* **Email:** [tu_email@ejemplo.com]
-* **LinkedIn (Opcional):** [Tu perfil de LinkedIn]
+* **Tu Nombre:** Alvaro Alan Diaz de Dios
+* **Email:** alan-mx1@hotmail.com
+* **LinkedIn (Opcional):** https://www.linkedin.com/in/alvaro-alan-diaz-de-dios-856364365/
 
 ---
 **Nota:** Este proyecto forma parte de mi portafolio personal.
